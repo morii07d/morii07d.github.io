@@ -1,0 +1,1 @@
+{"layers":[{"type":"LayerGroup","title":"サンプル","iconUrl":"","toggleall":false,"id":"","entries":[{"type":"Layer","id":"id_1","title":"大和高田市道","iconUrl":"","url":"./data/edit.geojson","subdomains":"","attribution":"","errorTileUrl":"","cocotile":false,"legendUrl":"","html":""}]}]}

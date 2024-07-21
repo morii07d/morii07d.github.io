@@ -26,4 +26,7 @@
 	{
 		"url":"./layers7.txt"
 	}
+	{
+		"url":"./sample.txt"
+	}
 ]
